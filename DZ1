@@ -1,0 +1,14 @@
+# lesson_PYDA10
+probe = 'test'
+
+probe[0]
+
+probe[1:-1]
+
+
+
+boys = ['Peter', 'Alex', 'John', 'Arthur', 'Richard']
+girls = ['Kate', 'Liza', 'Kira', 'Emma', 'Trisha']
+
+
+
